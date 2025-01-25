@@ -14,8 +14,8 @@
 -📱 Focused on seamless UI/UX for web & mobile apps
 - 🎨 Blending aesthetics with performance
 
-- 🌱 Currently Exploring: Advanced blockchain protocols & AI-powered automation
+  🌱 Currently Exploring: Advanced blockchain protocols & AI-powered automation
 - 🤝 Looking to Collaborate On: AI research, blockchain security, hackathons
 
-- ⚡ Fun Fact: I love exploring complex problems and turning them into elegant solutions!
+  ⚡ Fun Fact: I love exploring complex problems and turning them into elegant solutions!
 
