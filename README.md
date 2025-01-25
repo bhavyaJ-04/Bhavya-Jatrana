@@ -1,5 +1,5 @@
-# Bhavya-Jatrana
-Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Bhavya Jatrana
+
 🚀 Hackathon Enthusiast | Developer | AI/ML Researcher
 
 🏆 HackGT11 3rd Place Winner | 🧠 WHYHACKY (Yale) Finalist | 💡 10+ Hackathons
