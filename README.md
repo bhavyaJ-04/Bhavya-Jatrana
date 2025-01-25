@@ -4,12 +4,12 @@
 
 🏆HackGT11 | 🧠WHYHACKY (Yale) |🌳Tree Hacks (Stanford)
 
-- 💻 Developer & Researcher
-- 🔹 Passionate about AI, blockchain, and security
+💻 Developer & Researcher
+* 🔹 Passionate about AI, blockchain, and security
 - 🔹 Working on decentralized systems, cryptographic security & workflow automation
 - 🔹 Building ML models, privacy-preserving AI & gamification systems
 
-- 🎨 UI/UX Designer
+  🎨 UI/UX Designer
 - ✨ Designing intuitive, user-centric experiences
 -📱 Focused on seamless UI/UX for web & mobile apps
 - 🎨 Blending aesthetics with performance
